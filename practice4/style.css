@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+* {
+  margin:0;
+  padding: 0;
+}
+
+body {
+  background: silver;
+}
+
+div {
+  width: 48%;
+  background: #fff;
+  margin: 40px auto 0;
+  text-align: center;
+  padding-top:40px;
+}
+
+input {
+  width:88%;
+  height:40px;
+  padding-top: 20px;
+}
+
+textarea {
+  width:88%;
+  height:240px;
+  padding-top: 20px;
+}
+
+label {
+  float: left;
+  padding-left:6%;
+  padding-top : 20px;
+}
+
+button {
+  border:none;
+  border-radius: 5px;
+  color:#fff;
+  background: lightgreen;
+  width:88%;
+  padding: 20px 0;
+  margin:30px 0 30px;
+}
